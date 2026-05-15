@@ -1,4 +1,4 @@
-# 🛠️ My Skills
+
 
 ## 🌐 Socials
 
@@ -8,6 +8,7 @@
   </a>
 </p>
 
+# 🛠️ My Skills
 ## 💻 Languages
 
 <p align="left">
