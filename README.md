@@ -1,4 +1,4 @@
-```md
+
 # Tech Stack
 
 <p align="left">
@@ -56,4 +56,3 @@
 <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" alt="Canva" />
 
 </p>
-```
