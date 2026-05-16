@@ -1,17 +1,16 @@
-
-
 ## 🌐 Socials
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/ayush-kumar-991b92324/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
   </a>
 </p>
 
 # 🛠️ My Skills
+
 ## 💻 Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
@@ -24,7 +23,7 @@
 
 ## ☁️ Hosting & Deployment
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=render" alt="Render" title="Render" />
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify" />
@@ -33,14 +32,14 @@
 
 ## 📦 Package Managers & Runtimes
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun" />
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm" />
 </p>
 
 ## 🧰 Frameworks & Libraries
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />
   <img src="https://skillicons.dev/icons?i=nodemon" alt="Nodemon" title="Nodemon" />
@@ -48,7 +47,7 @@
 
 ## 🗄️ Databases
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" />
@@ -56,7 +55,7 @@
 
 ## 🐍 Python Ecosystem
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" title="NumPy" />
   <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" title="Pandas" />
   <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" title="Matplotlib" />
@@ -64,7 +63,7 @@
 
 ## 🎨 Design & Tools
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=canva" alt="Canva" title="Canva" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
 </p>
