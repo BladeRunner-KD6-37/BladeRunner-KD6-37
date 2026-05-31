@@ -59,6 +59,10 @@
 
 ## 🎨 Design & Tools
 <p>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=copilot" alt="GitHub Copilot" title="GitHub Copilot" />
   <img src="https://skillicons.dev/icons?i=canva" alt="Canva" title="Canva" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
 </p>
