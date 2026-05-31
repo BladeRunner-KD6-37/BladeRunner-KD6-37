@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />
-  <img src="https://skillicons.dev/icons?i=nodemon" alt="Nodemon" title="Nodemon" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon" title="Nodemon" />
 </p>
 
 ## 🗄️ Databases
@@ -53,8 +53,8 @@
 ## 🐍 Python Ecosystem
 <p>
   <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" title="NumPy" />
-  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" title="Pandas" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" title="Matplotlib" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" title="Matplotlib" />
 </p>
 
 ## 🎨 Design & Tools
@@ -62,7 +62,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=copilot" alt="GitHub Copilot" title="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" title="GitHub Copilot" />
   <img src="https://skillicons.dev/icons?i=canva" alt="Canva" title="Canva" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
 </p>
