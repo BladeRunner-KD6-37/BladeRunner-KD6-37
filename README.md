@@ -35,6 +35,7 @@
 
 ## 🧰 Frameworks & Libraries
 <p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />
